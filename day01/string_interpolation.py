@@ -1,5 +1,6 @@
 """Use string interpolation."""
 
+
 def interpolate(word1, word2):
     """Print a sentence with different types of string interpolation."""
     print("First word: {} - Second word: {}".format(word1, word2))
