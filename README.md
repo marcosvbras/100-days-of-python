@@ -1,7 +1,7 @@
-# 60 Days Of Python
+# 100 Days Of Python
 
 <p align="center">
-  <img src="https://raw.github.com/marcosvbras/60-days-of-python/master/images/computer.png" alt="Custom image"/>
+  <img src="https://raw.github.com/marcosvbras/100-days-of-python/master/images/computer.png" alt="Custom image"/>
 </p>
 
 This project is inspired in [#100DaysOfCode](https://medium.freecodecamp.org/join-the-100daysofcode-556ddb4579e4) and based in [60 Days Of Go](https://github.com/cassiobotaro/60-days-of-go) repository.
@@ -12,5 +12,7 @@ Thinking about it, I decided to explore even more this amazing programming langu
 
 | Day | Title      |
 | --- |:----------:|
-| 01 | [Strings - Interpolation](day01/)|
-| 02 | [List I - Basic Operations](day02/)|
+| 01 | [Strings - Interpolation](day001/)|
+| 02 | [List I - Basic Operations](day002/)|
+| 03 | [List II - Methods](day003/)|
+| 04 | [Magic Methods I - __len__ and __getitem__](day004/)|

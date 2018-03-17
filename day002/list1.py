@@ -20,9 +20,9 @@ def slice(characters):
 
 def remove(characters):
     """Remove some list elements."""
+    print("Last element removed: {}".format(characters.pop()))
     del characters[-1]
-    print("Last element removed: {}".format(characters))
-    print("One more removed: {}".format(characters.pop()))
+    print("One more removed: {}".format(characters))
 
 
 if __name__ == '__main__':
