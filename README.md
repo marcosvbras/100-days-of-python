@@ -17,5 +17,6 @@ In this repository I learn something new about Python every day during 100 days.
 | 001 | [Strings - Interpolation](day001/)|
 | 002 | [List I - Basic Operations](day002/)|
 | 003 | [List II - Methods](day003/)|
-| 004 | [Magic Methods I - __len__ and __getitem__](day004/)|
+| 004 | [Magic Methods - __len__ and __getitem__](day004/)|
 | 005 | [List III - List Comprehensions](day005/)|
+| 006 | [Tuple I - Generator Expressions](day006/)|
