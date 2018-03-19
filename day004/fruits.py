@@ -10,5 +10,3 @@ class FruitPack:
 
     def __getitem__(self, position):
         return self.fruits[position]
-
-    # def __
