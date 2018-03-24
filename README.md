@@ -21,3 +21,4 @@ In this repository I learn something new about Python every day during 100 days.
 | 005 | [List III - List Comprehensions](day005/)|
 | 006 | [Tuple I - Generator Expressions](day006/)|
 | 007 | [Tuple II - Unpacking](day007/)|
+| 008 | [Tupple III - Named Tuple](day008/)|
