@@ -8,8 +8,8 @@ def add(characters):
     characters.append("Yui")
     characters.append("Mikasa")
     characters.insert(0, "Sakura")
-    print("Elements added: {}".format(characters))
-    # >>> Elements added: ['Sakura', 'Mashiro', 'Yato', 'Himiku', 'Kaori', 'Yuki', 'Asuna', 'Yui', 'Mikasa']
+    print("New list: {}".format(characters))
+    # >>> New list: ['Sakura', 'Mashiro', 'Yato', 'Himiku', 'Kaori', 'Yuki', 'Asuna', 'Yui', 'Mikasa']
 
 
 def slice(characters):
@@ -27,8 +27,8 @@ def remove(characters):
     print("Last element removed: {}".format(characters.pop()))
     # >>> Last element removed: Mikasa
     del characters[-1]
-    print("One more removed: {}".format(characters))
-    # >>> One more removed: ['Sakura', 'Mashiro', 'Yato', 'Himiku', 'Kaori', 'Yuki', 'Asuna']
+    print("New list: {}".format(characters))
+    # >>> New list: ['Sakura', 'Mashiro', 'Yato', 'Himiku', 'Kaori', 'Yuki', 'Asuna']
 
 
 if __name__ == '__main__':

@@ -1,5 +1,9 @@
 # coding=utf-8
-"""Exploring 'magic' methods with List."""
+"""List II - In-place functions: Reverse, Sort and Extend.
+
+    Examples with in-place list functions. In-place functions changes
+    the original object and return None after calling it.
+"""
 
 
 def do_something_magical(animes, tvshows):

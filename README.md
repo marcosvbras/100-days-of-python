@@ -13,7 +13,7 @@ This project is a piece of a series called **X Days Of Something**, which one in
 - [100 Days Of Kotlin](https://github.com/marcosvbras/100-days-of-kotlin)
 - [100 Days Of Swift](https://github.com/marcosvbras/100-days-of-swift)
 
-## Why I doing this? Why Python?
+## Why am I doing this? Why Python?
 
 Writing code that works is easy (most of the time). But writing efficient, clear, concise, scalable, and maintainable code is very difficult. It may be better with a lot of practice in various types of problems and paradigms, in addition to having mastery of the language you are coding.
 
@@ -23,10 +23,11 @@ Writing code that works is easy (most of the time). But writing efficient, clear
 | --- |:----------:|
 | 001 | [String Interpolation](day001/)|
 | 002 | [List I - Basic Operations](day002/)|
-| 003 | [List II - Methods](day003/)|
+| 003 | [List II - In-place functions: Reverse, Sort and Extend](day003/)|
 | 004 | [Magic Methods - __len__ and __getitem__](day004/)|
 | 005 | [List III - List Comprehensions](day005/)|
 | 006 | [Tuple I - Generator Expressions](day006/)|
 | 007 | [Tuple II - Unpacking](day007/)|
 | 008 | [Tupple III - Named Tuple](day008/)|
 | 009 | [List III - Slicing](day009/)|
+| 010 | [Arrays](day010/)|
