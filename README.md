@@ -19,15 +19,26 @@ Writing code that works is easy (most of the time). But writing efficient, clear
 
 **Python** is a great language which you code *more* with *less*. There are a lot of facilities that helps you gain more time to focus on other development details. I decided to explore even more this amazing programming language to be able to take advantage of everything it has to offer, being more pythonic without the addictions of other languages.
 
+## Usage
+
+These examples were compiled with **Python 3.6** and there are some dependencies. So, to the correct operation of these examples, you need to use Python 3.6 and install all repository dependencies. To install the dependencies, you can use *pip* as following:
+
+```
+pip install -r requirements.pip
+```
+
+> **NOTE**: It is recommended create a virtual environment to keep your system clear. See more in https://virtualenv.pypa.io/en/stable/.
+
 | Day | Title      |
 | --- |:----------:|
 | 001 | [String Interpolation](day001/)|
-| 002 | [List I - Basic Operations](day002/)|
-| 003 | [List II - In-place functions: Reverse, Sort and Extend](day003/)|
-| 004 | [Magic Methods - __len__ and __getitem__](day004/)|
+| 002 | [List I - Append, Insert and Del](day002/)|
+| 003 | [List II - Reverse, Sort and Extend](day003/)|
+| 004 | [Magic Methods - len and getitem](day004/)|
 | 005 | [List III - List Comprehensions](day005/)|
 | 006 | [Tuple I - Generator Expressions](day006/)|
 | 007 | [Tuple II - Unpacking](day007/)|
 | 008 | [Tupple III - Named Tuple](day008/)|
 | 009 | [List III - Slicing](day009/)|
-| 010 | [Arrays](day010/)|
+| 010 | [Array I](day010/)|
+| 011 | [Array II - Basic usage in NumPy](day011/)|

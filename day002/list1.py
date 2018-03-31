@@ -1,5 +1,8 @@
 # coding=utf-8
-"""Exploring basic data types with List."""
+"""List I - Append, Insert and Del.
+
+    Exploring basic data types with List.
+"""
 
 
 def add(characters):
