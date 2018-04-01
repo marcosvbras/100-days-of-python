@@ -34,11 +34,12 @@ pip install -r requirements.pip
 | 001 | [String Interpolation](day001/)|
 | 002 | [List I - Append, Insert and Del](day002/)|
 | 003 | [List II - Reverse, Sort and Extend](day003/)|
-| 004 | [Magic Methods - len and getitem](day004/)|
+| 004 | [Magic Methods - **len** and **getitem**](day004/)|
 | 005 | [List III - List Comprehensions](day005/)|
 | 006 | [Tuple I - Generator Expressions](day006/)|
 | 007 | [Tuple II - Unpacking](day007/)|
 | 008 | [Tupple III - Named Tuple](day008/)|
 | 009 | [List III - Slicing](day009/)|
-| 010 | [Array I](day010/)|
-| 011 | [Array II - Basic usage in NumPy](day011/)|
+| 010 | [Array I - Simple Use](day010/)|
+| 011 | [Array II - Basic usage in **NumPy**](day011/)|
+| 012 | [Double-ended Queues with **Deque**](day012/)|
