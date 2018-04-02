@@ -27,7 +27,7 @@ These examples were compiled with **Python 3.6** and there are some dependencies
 pip install -r requirements.pip
 ```
 
-> **NOTE**: It is recommended create a virtual environment to keep your system clear. See more in https://virtualenv.pypa.io/en/stable/.
+> **NOTE**: It is recommended to create a virtual environment to keep your system clear. See more details in https://virtualenv.pypa.io/en/stable/.
 
 | Day | Title      |
 | --- |:----------:|
@@ -38,8 +38,9 @@ pip install -r requirements.pip
 | 005 | [List III - List Comprehensions](day005/)|
 | 006 | [Tuple I - Generator Expressions](day006/)|
 | 007 | [Tuple II - Unpacking](day007/)|
-| 008 | [Tupple III - Named Tuple](day008/)|
+| 008 | [Tuple III - Named Tuple](day008/)|
 | 009 | [List III - Slicing](day009/)|
 | 010 | [Array I - Simple Use](day010/)|
 | 011 | [Array II - Basic usage in **NumPy**](day011/)|
 | 012 | [Double-ended Queues with **Deque**](day012/)|
+| 013 | [Dict I - Simple creation and Dict Comprehensions](day013/)|
