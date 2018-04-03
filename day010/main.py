@@ -1,5 +1,5 @@
 # coding=utf-8
-"""Array I - Simple Use.
+"""Array I - Tired of lists? Use Arrays!.
 
     For store only numbers, most of times is better use an Array.
     It accepts all mutable sequences functions.

@@ -34,13 +34,14 @@ pip install -r requirements.pip
 | 001 | [String Interpolation](day001/)|
 | 002 | [List I - Append, Insert and Del](day002/)|
 | 003 | [List II - Reverse, Sort and Extend](day003/)|
-| 004 | [Magic Methods - **len** and **getitem**](day004/)|
+| 004 | [Everything can be an iterable](day004/)|
 | 005 | [List III - List Comprehensions](day005/)|
 | 006 | [Tuple I - Generator Expressions](day006/)|
 | 007 | [Tuple II - Unpacking](day007/)|
 | 008 | [Tuple III - Named Tuple](day008/)|
-| 009 | [List III - Slicing](day009/)|
-| 010 | [Array I - Simple Use](day010/)|
-| 011 | [Array II - Basic usage in **NumPy**](day011/)|
-| 012 | [Double-ended Queues with **Deque**](day012/)|
-| 013 | [Dict I - Simple creation and Dict Comprehensions](day013/)|
+| 009 | [List III - Slice it now!](day009/)|
+| 010 | [Tired of lists? Use Arrays!](day010/)|
+| 011 | [Using arrays in **NumPy**](day011/)|
+| 012 | [Get in line with **Deque** collection](day012/)|
+| 013 | [Jedi ways to create Dicts](day013/)|
+| 014 | [setdefault: When dict.get it's a bad idea](day014/)|

@@ -1,3 +1,7 @@
+"""Day 004 - Everything can be an iterable.
+
+    This example covers how to make iterable an non built-in class.
+"""
 from fruits import FruitPack
 from random import choice
 

@@ -1,4 +1,8 @@
 # coding=utf-8
+"""Day 009 - List III - Slice it now!.
+
+    This example covers the use of the powerful Python resource called Slice.
+"""
 
 def run():
     anime = "Ano Hi Mita Hana no Namae Bokutachi Wa Mada Shiranai"

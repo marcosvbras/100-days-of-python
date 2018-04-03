@@ -1,5 +1,5 @@
 # coding=utf-8
-"""Day 013 - Dicts I - Simple creation and Dict Comprehensions.
+"""Day 013 - Jedi ways to create Dicts.
 
     This example covers the creation of an important Python data type: Dict.
     As a plus, there is an example of Dict creation with Dict Comprehensions.

@@ -1,8 +1,8 @@
 # coding=utf-8
 
-"""Double-ended Queues with Deque.
+"""Day 012 - Get in line with Deque.
 
-    Queue instances are Thread-safe and implement the most of methods of lists.
+    Deques are Double-ended Queues. They are Thread-safe and implement the most of methods of lists.
 """
 
 from collections import deque

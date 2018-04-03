@@ -1,5 +1,5 @@
 # coding=utf-8
-"""Array II - Basic use with NumPy.
+"""Array II - Using arrays in NumPy.
 
     Using NumPy for basic operations with arrays.
 """
