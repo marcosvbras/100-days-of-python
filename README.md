@@ -46,3 +46,4 @@ pip install -r requirements.pip
 | 013 | [Jedi ways to create Dicts](day013/)|
 | 014 | [setdefault: When dict.get it's a bad idea](day014/)|
 | 015 | [Set - Creation, Set Comprehensions and Operations](day015/)|
+| 016 | [Using dis module to see bytecodes](day016/)|
