@@ -47,3 +47,4 @@ pip install -r requirements.pip
 | 014 | [setdefault: When dict.get it's a bad idea](day014/)|
 | 015 | [Set - Creation, Set Comprehensions and Operations](day015/)|
 | 016 | [Using dis module to see bytecodes](day016/)|
+| 017 | [Some great built-in functions](day017/)|
