@@ -39,7 +39,7 @@ pip install -r requirements.pip
 | 006 | [Tuple I - Generator Expressions](day006/)|
 | 007 | [Tuple II - Unpacking](day007/)|
 | 008 | [Tuple III - Named Tuple](day008/)|
-| 009 | [List III - Slice it now!](day009/)|
+| 009 | [List IV - Slice it now!](day009/)|
 | 010 | [Tired of lists? Use Arrays!](day010/)|
 | 011 | [Using arrays in **NumPy**](day011/)|
 | 012 | [Get in line with **Deque** collection](day012/)|

@@ -1,5 +1,5 @@
 # coding=utf-8
-"""Day 009 - List III - Slice it now!.
+"""Day 009 - List IV - Slice it now!.
 
     This example covers the use of the powerful Python resource called Slice.
 """
