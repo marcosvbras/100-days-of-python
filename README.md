@@ -31,7 +31,7 @@ pip install -r requirements.pip
 
 | Day | Title      |
 | --- |:----------:|
-| 001 | [String Interpolation](day001/)|
+| 001 | [String I - Interpolation](day001/)|
 | 002 | [List I - Append, Insert and Del](day002/)|
 | 003 | [List II - Reverse, Sort and Extend](day003/)|
 | 004 | [Everything can be an iterable](day004/)|
@@ -48,3 +48,4 @@ pip install -r requirements.pip
 | 015 | [Set - Creation, Set Comprehensions and Operations](day015/)|
 | 016 | [Using dis module to see bytecodes](day016/)|
 | 017 | [Some great built-in functions](day017/)|
+| 018 | [String II - Useful functions](day018/)|

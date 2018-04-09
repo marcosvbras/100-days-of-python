@@ -1,5 +1,8 @@
 # coding=utf-8
-"""Use string interpolation."""
+"""Day 001 - String I - Interpolation.
+
+    This example covers the different ways to interpolate strings.
+"""
 
 
 def interpolate(word1, word2):
